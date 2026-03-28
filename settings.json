@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pabas.aternos.me",
+    "ip": "pabas.aternos.me:32345",
     "port": 32345,
     "version": "",
     "try-creative": false
