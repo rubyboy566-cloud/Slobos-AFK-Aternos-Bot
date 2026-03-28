@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pabas.aternos.me:32345",
+    "ip": "pabas.aternos.me",
     "port": 32345,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
